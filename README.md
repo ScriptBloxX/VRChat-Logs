@@ -3,7 +3,7 @@ vrchat api + discord webhook <br>
 I've been using it for 3 days now and haven't encountered any problems.
 
 ### How is it useful?
-- You can keep your friend's information in this way.
+- Keep logs of your friend's activities in this way.
 
 ### **Forewarning**
 - You can adjust the duration but do not make queries to the API more than once per 60 seconds.
